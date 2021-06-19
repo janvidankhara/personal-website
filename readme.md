@@ -30,6 +30,8 @@ This section is made using the table tag and it have color-change property on ho
 ![](/readme_images/6.png)
 &nbsp;
 
-This section has a form to reach out and it has a view of google maps to view the location added here. 
+This section has a form to reach out and it has a view of google maps to view the location added here.
 ### Contact me section:-
 ![](/readme_images/7.png)
+
+This website contains the properties that if the browser window is resized then the content of the website is automatically adjusted with it.
